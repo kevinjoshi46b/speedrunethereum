@@ -10,7 +10,7 @@
 
 ## My Review
 
-This challenge was fun, I got to work with `interacting with external contracts`, creating and emiting `events`, setting `contructor`, creating and using `modifiers`, setting up a `time relative system`, `payable functions` and the `special function receive`. This challenge felt more like a CP (competitive programming) problem statement where a story / situation is explained and we need to write the code for the situation. This challenge is great for beginers since it teaches you about things like event, modifiers and much more which is at the core of solidity 🎯
+This challenge was fun, I got to work with `interacting with external contracts`, creating and emiting `events`, setting `contructor`, creating and using `modifiers`, setting up a `time relative system`, `payable functions` and the `special function receive`. This challenge felt more like a CP (competitive programming) problem statement where a story / situation is explained and we need to write the code for the situation. This challenge is great for beginners since it teaches you about things like event, modifiers and much more which is at the core of solidity 🎯
 
 ## Important links
 
