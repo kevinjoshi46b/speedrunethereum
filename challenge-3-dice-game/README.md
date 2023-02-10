@@ -14,7 +14,7 @@
 
 ## My Review
 
-This was a fairly simple challenge where we just had to copy the dice roll calculation logic from the main contract and make sure that the function is only called if the user is about to win! VRF (verifiable random functions) are something new that I got to learn about ✨ Looking forward to randomness someaday being build into the ethereum protocol ✊
+This was a fairly simple challenge where we just had to copy the dice roll calculation logic from the main contract and make sure that the function is only called if the user is about to win! VRF (verifiable random function) are something new that I got to learn about ✨ Looking forward to randomness someaday being build into the ethereum protocol ✊
 
 ## Important links
 
