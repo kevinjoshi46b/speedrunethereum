@@ -7,6 +7,11 @@ module.exports = async ({ getNamedAccounts, deployments, getChainId }) => {
   const { deployer } = await getNamedAccounts();
   const chainId = await getChainId();
 
+  const exampleExternalContract = await ethers.getContract(
+    "ExampleExternalContract",
+    deployer
+  );
+
   await deploy("Staker", {
     from: deployer,
     args: [exampleExternalContract.address],
@@ -14,10 +19,6 @@ module.exports = async ({ getNamedAccounts, deployments, getChainId }) => {
   });
 
   const Staker = await ethers.getContract("Staker", deployer);
-  const exampleExternalContract = await ethers.getContract(
-    "ExampleExternalContract",
-    deployer
-  );
 
   // todo: uncomment to verify your contract
   if (chainId !== "31337") {
