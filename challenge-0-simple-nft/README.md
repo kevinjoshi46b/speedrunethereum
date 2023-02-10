@@ -1,4 +1,4 @@
-# Challenge 0: 🎟 Simple NFT Example
+# Challenge #0: 🎟 Simple NFT Example
 
 <p align="center">
   <img src="./sre_c0.png" />
