@@ -51,7 +51,7 @@ const targetNetwork = NETWORKS["goerli"]; // <------- select your target fronten
 
 // const poolServerUrl = "https://backend.multisig.holdings:49832/";
 // const poolServerUrl = "http://localhost:49832/";
-const poolServerUrl = "http://localhost:49832/"; // <------ Render backend link will come here
+const poolServerUrl = "https://multisig-pool.onrender.com/"; // <------ Custom deployed backend
 
 // 😬 Sorry for all the console logging
 const DEBUG = true;
