@@ -1,8 +1,6 @@
 # Challenge #6: 👛 Multisig Wallet Challenge
 
-<p align="center">
-  <img src="./sre_c6.png" />
-</p>
+![Speed Run Ethereum Challenge #6 thumbnail](./sre_c6.png)
 
 ## Tasks to be done
 

@@ -1,8 +1,6 @@
 # Challenge #4: ⚖️ Build a DEX Challenge
 
-<p align="center">
-  <img src="./sre_c4.png" />
-</p>
+![Speed Run Ethereum Challenge #4 thumbnail](./sre_c4.png)
 
 ## Tasks to be done
 

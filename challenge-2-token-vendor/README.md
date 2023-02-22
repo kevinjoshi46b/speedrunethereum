@@ -1,8 +1,6 @@
 # Challenge #2: 🏵 Token Vendor
 
-<p align="center">
-  <img src="./sre_c2.png" />
-</p>
+![Speed Run Ethereum Challenge #2 thumbnail](./sre_c2.png)
 
 ## Tasks to be done
 

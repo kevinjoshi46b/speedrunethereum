@@ -1,8 +1,6 @@
 # Challenge #5: 📺 A State Channel Application Challenge
 
-<p align="center">
-  <img src="./sre_c5.png" />
-</p>
+![Speed Run Ethereum Challenge #5 thumbnail](./sre_c5.png)
 
 ## Tasks to be done
 

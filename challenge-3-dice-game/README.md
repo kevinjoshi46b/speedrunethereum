@@ -1,8 +1,6 @@
 # Challenge #3: 🎲 Dice Game
 
-<p align="center">
-  <img src="./sre_c3.png" />
-</p>
+![Speed Run Ethereum Challenge #3 thumbnail](./sre_c3.png)
 
 ## Tasks to be done
 

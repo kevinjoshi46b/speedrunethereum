@@ -1,8 +1,6 @@
 # Challenge #1: 🥩 Decentralized Staking App
 
-<p align="center">
-  <img src="./sre_c1.png" />
-</p>
+![Speed Run Ethereum Challenge #1 thumbnail](./sre_c1.png)
 
 ## Tasks to be done
 

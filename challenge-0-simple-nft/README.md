@@ -1,8 +1,6 @@
 # Challenge #0: 🎟 Simple NFT Example
 
-<p align="center">
-  <img src="./sre_c0.png" />
-</p>
+![Speed Run Ethereum Challenge #0 thumbnail](./sre_c0.png)
 
 ## Tasks to be done
 
