@@ -16,6 +16,6 @@ You can checkout my own implementation of SVG NFTs, Pinocchio Loogies a collecti
 
 - [Speed Run Ethereum](https://github.com/scaffold-eth/scaffold-eth-examples/tree/loogies-svg-nft)
 - [Deployed contract](https://polygonscan.com/address/0xd3628c08de1a2788c232732bb06de8dbdae1a3e7)
-- [Deployed webapp for minting]()
+- [Deployed webapp for minting](https://pinocchio-loogies.onrender.com)
 - [Opensea collection](https://opensea.io/collection/pinocchio-loogies)
-- [Dev.to article]()
+- [Dev.to article](https://dev.to/kevinjoshi46b/challenge-7-svg-nft-building-cohort-challenge-28a9)
